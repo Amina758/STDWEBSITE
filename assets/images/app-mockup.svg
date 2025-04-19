@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone frame -->
+  <rect x="0" y="0" width="300" height="600" rx="30" fill="#333333"/>
+  <rect x="10" y="10" width="280" height="580" rx="20" fill="#ffffff"/>
+  
+  <!-- App header -->
+  <rect x="10" y="10" width="280" height="60" rx="20" fill="#4a6fa5"/>
+  <text x="40" y="50" font-family="Arial" font-size="24" font-weight="bold" fill="white">StudIQ</text>
+  <circle cx="250" cy="40" r="15" fill="white" fill-opacity="0.3"/>
+  
+  <!-- Navigation menu -->
+  <rect x="20" y="80" width="260" height="50" rx="10" fill="#f5f7fa"/>
+  <circle cx="45" cy="105" r="15" fill="#4a6fa5"/>
+  <rect x="70" y="95" width="80" height="10" rx="5" fill="#4a6fa5"/>
+  <rect x="70" y="110" width="50" height="5" rx="2.5" fill="#6c757d"/>
+  
+  <rect x="20" y="140" width="260" height="50" rx="10" fill="#f5f7fa"/>
+  <circle cx="45" cy="165" r="15" fill="#28a745"/>
+  <rect x="70" y="155" width="80" height="10" rx="5" fill="#28a745"/>
+  <rect x="70" y="170" width="50" height="5" rx="2.5" fill="#6c757d"/>
+  
+  <rect x="20" y="200" width="260" height="50" rx="10" fill="#f5f7fa"/>
+  <circle cx="45" cy="225" r="15" fill="#dc3545"/>
+  <rect x="70" y="215" width="80" height="10" rx="5" fill="#dc3545"/>
+  <rect x="70" y="230" width="50" height="5" rx="2.5" fill="#6c757d"/>
+  
+  <!-- Flashcards section -->
+  <text x="20" y="290" font-family="Arial" font-size="18" font-weight="bold" fill="#333333">Flashcards</text>
+  
+  <rect x="20" y="300" width="120" height="150" rx="10" fill="#4a6fa5" fill-opacity="0.1"/>
+  <rect x="30" y="320" width="100" height="10" rx="5" fill="#4a6fa5"/>
+  <rect x="30" y="340" width="80" height="10" rx="5" fill="#4a6fa5"/>
+  <rect x="30" y="360" width="90" height="10" rx="5" fill="#4a6fa5"/>
+  <rect x="30" y="420" width="60" height="20" rx="10" fill="#4a6fa5"/>
+  
+  <rect x="150" y="300" width="120" height="150" rx="10" fill="#28a745" fill-opacity="0.1"/>
+  <rect x="160" y="320" width="100" height="10" rx="5" fill="#28a745"/>
+  <rect x="160" y="340" width="80" height="10" rx="5" fill="#28a745"/>
+  <rect x="160" y="360" width="90" height="10" rx="5" fill="#28a745"/>
+  <rect x="160" y="420" width="60" height="20" rx="10" fill="#28a745"/>
+  
+  <!-- MCQ section -->
+  <text x="20" y="490" font-family="Arial" font-size="18" font-weight="bold" fill="#333333">MCQs</text>
+  
+  <rect x="20" y="500" width="260" height="80" rx="10" fill="#f5f7fa"/>
+  <rect x="30" y="510" width="240" height="10" rx="5" fill="#333333"/>
+  <rect x="30" y="530" width="240" height="5" rx="2.5" fill="#6c757d"/>
+  
+  <rect x="30" y="550" width="15" height="15" rx="3" fill="#4a6fa5"/>
+  <rect x="55" y="550" width="100" height="15" rx="3" fill="#6c757d" fill-opacity="0.3"/>
+  
+  <!-- Bottom navigation -->
+  <rect x="10" y="550" width="280" height="40" rx="0 0 20 20" fill="#4a6fa5"/>
+  <circle cx="60" cy="570" r="15" fill="white" fill-opacity="0.3"/>
+  <circle cx="150" cy="570" r="15" fill="white" fill-opacity="0.3"/>
+  <circle cx="240" cy="570" r="15" fill="white" fill-opacity="0.3"/>
+</svg>
